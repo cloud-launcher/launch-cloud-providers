@@ -1,8 +1,8 @@
 {
-  "name": "base-node",
-  "version": "0.0.3",
-  "description": "Base Node.JS Development Environment",
-  "repository": "https://github.com/blakelapierre/base-node",
+  "name": "launch-cloud-providers",
+  "version": "0.0.1",
+  "description": "Provider profiles for launch-cloud",
+  "repository": "https://github.com/cloud-launcher/launch-cloud",
   "main": "index.js",
   "author": "Blake La Pierre",
   "license": "MIT",
