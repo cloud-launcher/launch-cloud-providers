@@ -2,8 +2,8 @@
   "name": "launch-cloud-providers",
   "version": "0.0.1",
   "description": "Provider profiles for launch-cloud",
-  "repository": "https://github.com/cloud-launcher/launch-cloud",
-  "main": "index.js",
+  "repository": "https://github.com/cloud-launcher/launch-cloud-providers",
+  "main": "profiles/index.js",
   "author": "Blake La Pierre",
   "license": "MIT",
   "devDependencies": {
