@@ -1,4 +1,5 @@
 {
+  "name": "DigitalOcean",
   "sizes": {
     "512mb": {
       "id": "512mb",

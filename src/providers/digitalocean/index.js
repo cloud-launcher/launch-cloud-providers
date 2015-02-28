@@ -55,6 +55,7 @@ module.exports = (DOWrapper, DOToken) => {
   function makeProfile(values) {
     const [sizes, locations] = values;
     return {
+      name: 'DigitalOcean',
       sizes,
       locations
     };
