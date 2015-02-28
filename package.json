@@ -1,6 +1,6 @@
 {
   "name": "launch-cloud-providers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Provider profiles for launch-cloud",
   "repository": "https://github.com/cloud-launcher/launch-cloud-providers",
   "main": "profiles/index.js",
