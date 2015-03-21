@@ -1,5 +1,7 @@
 import _ from 'lodash';
 
+const blacklist = {locations: ['nyc2']};
+
 module.exports = (DOWrapper, DOToken) => {
   const api = new DOWrapper(DOToken);
 
@@ -57,7 +59,7 @@ module.exports = (DOWrapper, DOToken) => {
     return {
       name: 'DigitalOcean',
       sizes,
-      locations
+      locations: _.omit(locations, blacklist.locations || [])
     };
   }
 };
