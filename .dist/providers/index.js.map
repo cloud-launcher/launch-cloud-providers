@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["providers/index.js"],"sourcesContent":["module.exports = {\n  digitalocean: require('./digitalocean')\n};"],"file":"index.js"}
